@@ -74,6 +74,7 @@ a {
     gap: 50px;
     align-items: flex-end;
     justify-content: center;
+    height: 190px;
     padding: 1rem 0;
     i:hover {
         opacity: 50%;
@@ -90,8 +91,3 @@ a {
     font-weight: 400;
 }
 
-@media (min-width:70em) {
-.footer {
-    height: 190px;
-}
-}
